@@ -1,0 +1,23 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/Menu Move.wav-c3a58233cc8c759731db35d6b8e78c27.sample"
+
+[deps]
+
+source_file="res://art/Music and Sounds/Menu Move.wav"
+dest_files=[ "res://.import/Menu Move.wav-c3a58233cc8c759731db35d6b8e78c27.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0
